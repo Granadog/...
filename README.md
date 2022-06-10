@@ -3,3 +3,4 @@ Criando um repositório pela primeira vez para fixar a aprendizagem
 
 ## Links para aprofundar conhecimentos
 [Markdown Basic Sintax](https://www.markdownguide.org/basic-syntax/)
+[site de buscas](https://www.google.com/)
